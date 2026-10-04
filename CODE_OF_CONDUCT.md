@@ -59,12 +59,41 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
+reported to the community leaders responsible for enforcement.
+
+Reports may be submitted by opening an issue in the GitHub repository or by
+contacting the project maintainers through the contact information provided
+in the repository. When reporting an incident, please provide as much relevant
+information as possible, including:
+
+* A description of the behavior or incident
+* The date and approximate time of the incident
+* The location or community space where the incident occurred
+* The names or usernames of the individuals involved, if known
+* Any relevant screenshots, messages, links, or other supporting information
+
+If you are concerned about reporting publicly, you should contact a project
+maintainer privately using the contact information available in the repository.
+
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Community leaders will make reasonable efforts to protect the privacy of the
+reporter and any individuals involved in an incident. Information related to
+reports will only be shared with those who need it to investigate and resolve
+the matter.
+
+Community leaders will determine the appropriate response based on the nature
+and severity of the incident. Possible responses include a private correction
+or warning, temporary restrictions, removal of contributions, a temporary ban,
+or a permanent ban from the community.
+
+Anyone who receives a report is expected to handle it promptly, fairly, and
+respectfully. Retaliation against anyone who reports an incident in good faith
+or participates in an investigation is not permitted.
+
+If a community leader is involved in a reported incident, that individual
+will not participate in the investigation or decision regarding the incident
+where reasonably possible.
 
 ## Enforcement Guidelines
 
@@ -106,7 +135,7 @@ Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
